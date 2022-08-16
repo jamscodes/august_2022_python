@@ -1,0 +1,8 @@
+Things for improvement:
+- Define a game loop
+
+- Look for opportunities for class/static methods as well as inheritance
+
+- Add randomness to the attack method
+    - Defense stat
+    - RNG attack
